@@ -202,6 +202,7 @@ body {
 
   .info__img {
     border-radius: 0 20px 20px 0;
+    display: flex;
   }
 
   .card__form__group {
